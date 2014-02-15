@@ -1,0 +1,9 @@
+# Eclipse project
+.project
+.pydevproject
+org.eclipse.*
+
+# vim temp files
+*.swp
+.*.swp
+.swp
